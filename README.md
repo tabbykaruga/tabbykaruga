@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Tabitha M Karuga. I am a full-stack web developer with 3 years of experience. I have specialized in mostly mobile development but I am also very knowledgeable with Web development. I am currently working as a Software Developer at Softclans Technologies Limited. 
+My name is Tabitha Muthoni Karuga. I am a full-stack web and mobile developer with 3 years of experience. I am currently a Software Developer at Softclans Technologies Limited where my major roles are developing, debugging, and maintaining software solutions.
+
 - 📫 How to reach me using email:karugatabithamuthoni@gmail.com
-- ⚡ Fun fact: I am quite knowledgeable in very many programming languages.
-- Languages: Java, Flutter, Laravel, HTML, CSS, JavaScript, Python.
+- ⚡ Fun fact: I am quite knowledgeable in many programming languages and frameworks.
+- ## Languages and frameworks: Java, Flutter, Laravel, Angular, HTML, CSS, JavaScript, PHP, Python.
