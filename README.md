@@ -4,4 +4,4 @@ My name is Tabitha Muthoni Karuga. I am a full-stack web and mobile developer wi
 
 - 📫 How to reach me using email:karugatabithamuthoni@gmail.com
 - ⚡ Fun fact: I am quite knowledgeable in many programming languages and frameworks.
-- ## Languages and frameworks: Java, Flutter, Laravel, Angular, HTML, CSS, JavaScript, PHP, Python.
+- ## Languages and frameworks: Java, Flutter, Laravel, React JS, HTML, CSS, JavaScript, PHP, Python.
